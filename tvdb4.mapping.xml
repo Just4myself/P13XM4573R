@@ -200,29 +200,49 @@
     21|480|500|Epilogue
   </anime>
   <anime tvdbid="81797" name="One Piece">
-    01|001|030|East Blue - Gathering the Crew
-    02|031|044|Arlong Park
-    03|045|063|Entering into the Grand Line 
-    04|064|077|Whiskey Peak and Little Garden
-    05|078|092|Drum Island
-    06|093|135|Alabasta
-    07|136|152|Jaya Arc
-    08|153|195|Skypiea
-    09|196|206|The Naval Fortress G8
-    10|207|228|Davy Back Games - The Foxy Pirate Crew
-    11|229|263|Water Seven
-    12|264|326|Enies Lobby
-    13|327|384|Thriller Bark
-    14|385|407|Sabaody Archipelago
-    15|408|421|Island of Women / Amazon Lily
-    16|422|456|Impel Down
-    17|457|489|Marineford
-    18|490|516|Post-War Arc
-    19|517|574|Fishman Island
-    20|575|628|Punk Hazard
-    21|629|746|Dressrosa
-    22|747|782|Zou Arc
-    23|783|783|Whole Cake Island Arc (unknown length)
+    01|001|004|Romance Dawn Arc
+    02|005|008|Orange Town Arc
+    03|009|018|Syrup Village Arc
+    04|019|030|Baratie Arc
+    05|031|044|Arlong Park Arc
+    06|045|053|Loguetown Arc
+    07|054|061|Warship Island Arc
+    08|062|063|Reverse Mountain Arc
+    09|064|067|Whiskey Peak Arc
+    10|068|069|Coby/Helmeppo Side Story
+    11|070|077|Little Garden Arc
+    12|078|091|Drum Island Arc
+    13|092|130|Alabasta Arc
+    14|131|135|Post-Alabasta Arc
+    15|136|138|Goat Island Arc
+    16|139|143|Ruluka Island Arc
+    17|144|152|Jaya Arc
+    18|153|195|Skypiea Arc
+    19|196|206|G-8 Arc
+    20|207|219|Long Ring Long Land Arc
+    21|220|224|Ocean's Dream Arc
+    22|225|228|Foxy's Return Arc
+    23|229|263|Water 7 Arc
+    24|264|312|Enies Lobby Arc
+    25|313|325|Post-Enies Lobby Arc
+    26|326|336|Ice Hunter Arc
+    27|337|381|Thriller Bark Arc
+    28|382|384|Spa Island Arc
+    29|385|407|Sabaody Archipelago Arc
+    30|408|421|Amazon Lily Arc
+    31|422|452|Impel Down Arc
+    32|453|489|Marineford Arc
+    33|490|516|Post-War Arc
+    34|517|522|Return to Sabaody Arc
+    35|523|574|Fishman Island Arc
+    36|575|578|Z's Ambition Arc
+    37|579|625|Punk Hazard Arc
+    38|626|628|ceasar Retrieval Arc
+    39|629|746|Dressrosa Arc
+    40|747|750|Silver Mine Arc
+    41|751|779|Zou Arc
+    42|780|782|Marine Rookie Arc
+    43|783|783|Whole Cake Island Arc
   </anime>
   <anime tvdbid="79089" name="Samurai Champloo">
     01|001|017|Season 01
